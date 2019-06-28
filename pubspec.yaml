@@ -9,10 +9,12 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_blue: ^0.6.0+1
+  
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
 
 flutter:
   uses-material-design: true
